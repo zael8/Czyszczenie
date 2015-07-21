@@ -5,7 +5,9 @@ there were 30 people engaged in the experiment
 "activity" - this variable desribes the activity performed during the measurement, there were 6 ativities in the experiment: 
 "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
 
-The list of variables displayed on the bottom of this file is present in the final dataset. 
+The list of variables displayed on the bottom of this file is present in the final dataset (in addition to "subject" and "activity").
+
+
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals
 tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant
 rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter 
@@ -28,6 +30,8 @@ for each activity and each subject.
 - Each feature vector is a row on the text file.
 - The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
 - The gyroscope units are rad/seg.
+
+The list of the variables present in the "tidy_dataset.txt":
 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
