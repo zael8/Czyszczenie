@@ -1,5 +1,7 @@
 "subject" - this variable represents the id numbers of all the  people who participated in the experiment,
 there were 30 people engaged in the experiment
+
+
 "activity" - this variable desribes the activity performed during the measurement, there were 6 ativities in the experiment: 
 "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
 
