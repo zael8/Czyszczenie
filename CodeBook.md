@@ -31,7 +31,7 @@ for each activity and each subject.
 - The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
 - The gyroscope units are rad/seg.
 
-The list of the variables present in the "tidy_dataset.txt":
+The list of the variables present in the "tidy_dataset.txt"  (in addition to "subject" and "activity"):
 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
